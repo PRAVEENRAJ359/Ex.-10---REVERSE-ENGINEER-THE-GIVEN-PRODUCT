@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Screenshot 2024-11-28 131316](https://github.com/user-attachments/assets/83faef5a-30e5-4c41-b1f6-da97bb0c9eaa)
 
 ### Output:
+![empd4](https://github.com/user-attachments/assets/34e63b89-b34c-48e2-9e0a-79816757eabb)
 
 
-### Name:
-### Register Number:
+### Name: PRAVEEN RAJ R
+### Register Number: 24901056
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
