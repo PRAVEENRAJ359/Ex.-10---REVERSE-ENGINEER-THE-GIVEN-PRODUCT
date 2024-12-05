@@ -31,10 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![Screenshot 2024-11-28 131316](https://github.com/user-attachments/assets/83faef5a-30e5-4c41-b1f6-da97bb0c9eaa)
+![Screenshot 2024-12-05 141409](https://github.com/user-attachments/assets/61229d4e-764f-4985-b5bf-f4b7e43ed70a)
+
 
 ### Output:
-![empd4](https://github.com/user-attachments/assets/34e63b89-b34c-48e2-9e0a-79816757eabb)
+![Screenshot 2024-12-05 141420](https://github.com/user-attachments/assets/1b1f82ee-0941-47c1-b2e1-f4f2b1fcf0c8)
 
 
 ### Name: PRAVEEN RAJ R
